@@ -9,9 +9,9 @@ import Foundation
 
 print("Hello, World!")
 
-var x = 0
-while(x<10) {
-    print("abc")
-    x = x + 4
-}
+//var x = 0
+//while(x<10) {
+//    print("abc")
+//    x = x + 4
+//}
 
